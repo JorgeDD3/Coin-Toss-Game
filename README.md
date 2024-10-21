@@ -31,5 +31,5 @@ The game has some simple rules that show how winning chances change based on how
 
 ## Installation
 1. Clone the project:
-   git clone 
+   git clone https://github.com/JorgeDD3/Coin-Toss-Game
    cd CoinTossGameProject
